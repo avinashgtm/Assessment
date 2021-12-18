@@ -13,3 +13,15 @@ I wrote few tests using pytest python framework verifying certain things that ar
 
 ## Reading test report
 After step 3 is executed successfully report.html should have been generated in the same directory, just open it in your browser it will show you what tests it ran
+
+## Pros on this approach
+1. Quick set up of test environment
+2. Faster test execution
+3. No cost involved on buying expensive licenses to thrid party test tools
+4. Very light weight and easy call via CI/CD tool
+5. In this exercise I am generating html report but there is also an option to generate junit style report which can be easily read via Jenkins for reporting
+
+## Cons on this approach
+1. Some technical know how is involved
+2. Installing python packages, which can increase depending on how many will be used for testing the whole application
+3. inadvertent security issues on using third party packcages
