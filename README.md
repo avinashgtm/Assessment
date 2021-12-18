@@ -1,10 +1,10 @@
 # MNTN Assessment
 
-##Public Api Info
+## Public Api Info
 For this excercise I have choosen a simple public api which takes in an ip address andd provides some info like from which city is the request being made, country etc
 
 ## What do tests do
-I have wrote few tests using pytest python framework verifying certain things that are mentioned in the docstrings of the test
+I wrote few tests using pytest python framework verifying certain things that are mentioned in the docstrings of the test
  
 ## Running the tests
 1. Pull git@github.com:avinashgtm/Assessment.git and cd to the directory
