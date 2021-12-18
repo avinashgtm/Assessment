@@ -7,7 +7,8 @@ def res_obj():
     def _res_obj(ip="176.185.160.94"):
         '''
         This fixture will create a response object
-        to be used in subsequent tests
+        to be used in subsequent tests. If the ip is
+        not passed via test use a default ip
         '''
         try:
             # i am using verify=false just to ignore cert and ssl warnings

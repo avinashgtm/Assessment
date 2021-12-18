@@ -1,7 +1,0 @@
-[
-  "test_api.py::test_api", 
-  "test_api.py::test_city_in_api_res", 
-  "test_api.py::test_various_ips[165.185.160.94-toronto-ca]", 
-  "test_api.py::test_various_ips[167.185.160.94-cincinnati-us]", 
-  "test_api.py::test_various_ips[161.185.160.93-new york city-us]"
-]
