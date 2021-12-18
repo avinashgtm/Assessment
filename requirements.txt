@@ -1,0 +1,4 @@
+###### Install these packages ######
+requests== 2.26.0
+pytest== 4.6.11
+pytest-html== 1.22.1
