@@ -7,6 +7,7 @@ For this excercise I have choosen a simple public api which takes in an ip addre
 I wrote few tests using pytest python framework verifying certain things that are mentioned in the docstrings of the test
  
 ## Running the tests
+    ### Python 2.7 and git are already installed on the machine ###
 1. Pull git@github.com:avinashgtm/Assessment.git and cd to the directory
 2. Install python packages with the command : pip install -r requirements.txt
 3. Execute the tests with the command : pytest --html=report.html
